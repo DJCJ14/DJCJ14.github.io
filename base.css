@@ -285,7 +285,7 @@
 
  /* Channels container */
  .content-1gYQeQ {
-     background: var(--dark-primary-color);
+     /* background: var(--dark-primary-color); */
      margin-left: 18px;
      padding: 0 6px;
  }
@@ -312,7 +312,7 @@
  }
 
  /* Selected channel background color */
- /* .containerDefault-YUSmu3 .modeSelected-3DmyhH .content-1gYQeQ, */
+  .containerDefault-YUSmu3 .modeSelected-3DmyhH .content-1gYQeQ, 
  .containerDefault-YUSmu3 .modeSelected-3DmyhH:hover .content-1gYQeQ {
      background: var(--light-neon-red-color);
  }
