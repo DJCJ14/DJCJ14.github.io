@@ -218,7 +218,7 @@
 
  /* Top left bar with server name - background */
  #app-mount .header-3OsQeK {
-     background: black;
+     background: red;
      border-bottom: 2px solid var(--neon-red-color);
  }
 
