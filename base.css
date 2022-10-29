@@ -312,7 +312,7 @@
  }
 
  /* Selected channel background color */
- /* .containerDefault-YUSmu3 .modeSelected-3DmyhH .content-1gYQeQ, */
+ .containerDefault-YUSmu3 .modeSelected-3DmyhH .content-1gYQeQ,
  .containerDefault-YUSmu3 .modeSelected-3DmyhH:hover .content-1gYQeQ {
      background: var(--light-neon-red-color);
  }
