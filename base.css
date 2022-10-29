@@ -3,8 +3,6 @@
     --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%);
     --font-primary: 'Rajdhani';
     --primary-text-color: lightgray;
-    
-    /* PENIS */
 
     --primary: 23, 13, 22;
     --red: 255, 0, 60;
@@ -287,7 +285,7 @@
 
  /* Channels container */
  .content-1gYQeQ {
-    background: var(--dark-primary-color);
+     background: var(--dark-primary-color);
      margin-left: 18px;
      padding: 0 6px;
  }
@@ -314,7 +312,7 @@
  }
 
  /* Selected channel background color */
-/* .containerDefault-YUSmu3 .modeSelected-3DmyhH .content-1gYQeQ, */
+ .containerDefault-YUSmu3 .modeSelected-3DmyhH .content-1gYQeQ,
  .containerDefault-YUSmu3 .modeSelected-3DmyhH:hover .content-1gYQeQ {
      background: var(--light-neon-red-color);
  }
