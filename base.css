@@ -4,7 +4,7 @@
     --font-primary: 'Rajdhani';
     --primary-text-color: lightgray;
     
-    /* PENIS 1 */
+    /* PENIS */
 
     --primary: 23, 13, 22;
     --red: 255, 0, 60;
@@ -305,7 +305,7 @@
 
  /* Channel name color */
  .channelName-3KPsGw {
-     color: var(--neon-red-color);
+     color: var(--neon-blue-color);
  }
 
 /* Unread message in channel */
@@ -314,7 +314,7 @@
  }
 
  /* Selected channel background color */
- .containerDefault-YUSmu3 .modeSelected-3DmyhH .content-1gYQeQ,
+/* .containerDefault-YUSmu3 .modeSelected-3DmyhH .content-1gYQeQ, */
  .containerDefault-YUSmu3 .modeSelected-3DmyhH:hover .content-1gYQeQ {
      background: var(--light-neon-red-color);
  }
