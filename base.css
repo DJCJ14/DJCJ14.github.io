@@ -285,7 +285,8 @@
 
  /* Channels container */
  .content-1gYQeQ {
-     background: var(--dark-primary-color);
+    /* background: var(--dark-primary-color); */
+     background: var(--light-neon-red-color);
      margin-left: 18px;
      padding: 0 6px;
  }
