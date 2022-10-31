@@ -9,12 +9,11 @@
 @import url('https://p0rtl6.github.io/BD-AnimatedSpeakingRings/src/bigusers.css'); /* The fullscreen user panels */
 
 :root{
-	/*66b933*/
     /*Speaking Rings*/
-  --gradient1:  #66b933;
-  --gradient2:  #66b933;
+  --gradient1:  #ffe89b;
+  --gradient2:  #fdc91e;
   --gradientangle: 45deg;
-  --dmvoicebgcolor: #66b933;
+  --dmvoicebgcolor: #c39a13;
     
    /*Roundite*/
   --roundness: 15px;
@@ -35,7 +34,7 @@
 }
 
 .theme-dark .inviteRowName-3H4s_c {
-    color: #66b933;
+    color: #ffe89b;
 }
 
 .theme-dark .inviteRow-3vmB7i:hover {
@@ -43,15 +42,15 @@
 }
 
 .contents-3ca1mk {
-    color: #66b933;
+    color: #ffe89b;
 }
 
 .cooldownWrapper-2k1jHK {
-    color: #66b933;
+    color: #ffe89b;
 }
 
 .discrimBase-1VOoau {
-    color: #66b933;
+    color: #ffd23a;
 }
 
 .popoutBannerPremium-3i5EEI {
