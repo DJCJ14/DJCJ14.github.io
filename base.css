@@ -337,15 +337,6 @@
       background: var(--light-primary-color);
   }
 
-  .link_d8bfb3 {
-      background: var(--dark-primary-color);
-  }
-
-  .modeSelected_d8bfb3 .link_d8bfb3 svg {
-    color: var(--neon-yellow-color);
-  }
-
-
   /* Icons next to channel name */
   .iconContainer_d8bfb3 svg {
     color: var(--light-neon-red-color);
