@@ -42,7 +42,6 @@
     --header-primary: var(--neon-blue-color);
     --header-secondary: var(--light-neon-blue-color);
     --search-popout-option-fade: var(--primary-color);
-    --background-floating: var(--primary-color);
     --background-modifier-accent: var(--light-neon-red-color);
     --interactive-hover: var(--light-neon-blue-color);
     --info-warning-foreground: var(--neon-yellow-color);
