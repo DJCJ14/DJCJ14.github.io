@@ -293,11 +293,7 @@
   }
 
    /* Channels container */
-  .wrapper_d8bfb3 {
-    background: var(--dark-primary-color);
-    margin-left: 18px;
-    padding: 0 6px;
-  }
+  
 
   /* Category and hash name color */
   .content_eed6a8 .wrapper_a08117,
@@ -336,6 +332,15 @@
   .wrapper_d8bfb3 {
       background: var(--light-primary-color);
   }
+
+  .link_d8bfb3 {
+      background: var(--dark-primary-color);
+  }
+
+  .modeSelected_d8bfb3 .link_d8bfb3 svg {
+    color: var(--neon-yellow-color);
+  }
+
 
   /* Icons next to channel name */
   .iconContainer_d8bfb3 svg {
